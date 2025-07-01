@@ -36,7 +36,7 @@ function move()
 
   var start=new Date().getTime();
 }
-move();
+//move();
 
 const shape=document.getElementById("shape");
 shape.onclick=function () {
